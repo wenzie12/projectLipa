@@ -1,2 +1,3 @@
-# projectLipa
-website about Lipa
+# Project Lipa
+
+This is a collaboration project by Wenzie and Jed.
